@@ -93,12 +93,12 @@ li {
       height: 100%;
     }
     .X {
-      color:black;
+      color:blue;
       font-size: 40px;
       font-weight: bold;
     }
     .O {
-      color: #ff652f;
+      color: red;
       font-size: 40px;
       font-weight: bold;
     }
