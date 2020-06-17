@@ -23,8 +23,8 @@ h1 {
 }
 
 .board {
-  border: 1rem solid #ff652f;
-  background: #ff652f;
+  border: 1rem solid pink;
+  background: pink;
   width: 500px;
   height: 500px;
   display: grid;
@@ -45,7 +45,7 @@ h1 {
   color: black;
 }
 .O {
-  color:#ff652f;
+  color:pink;
 }
 
 .info-wrapper {
@@ -63,7 +63,7 @@ li {
 }
 
 .info-wrapper button {
-  background:#ff652f;
+  background:pink;
   color: white;
   font-weight: bolder;
   border: none;
